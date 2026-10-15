@@ -1,3 +1,1 @@
-# MyGit First Commit
-## About
-this project is about learning git lab
+Git Project lab master version
